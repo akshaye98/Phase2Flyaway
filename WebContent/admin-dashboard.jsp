@@ -6,7 +6,7 @@ String driverName = "com.mysql.cj.jdbc.Driver";
 String connectionUrl = "jdbc:mysql://localhost:3306/";
 String dbName = "db_world";
 String userId = "root";
-String password = "Akshay@6199aku";
+String password = "";
     try {
         Class.forName(driverName);
     } catch (ClassNotFoundException e) {
